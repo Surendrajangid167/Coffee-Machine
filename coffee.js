@@ -161,46 +161,6 @@ function cappuccino(){
     }
 }
 
-// function coins(){
-//     var p =prompt("Insert the number of quarters that you want to be inserted")
-//     var q =prompt("Insert the number of dimes that you want to be inserted")
-//     var r =prompt("Insert the number of nickles that you want to be inserted")
-//     var s =prompt("Insert the number of pennies that you want to be inserted")
-//     var givenMoney = (p*quarters)+(q*dimes)+(r*nickles)+(s*pennies)
-// }
-
-
-
-//     if(a == "espresso"){
-//         if(p*quarters+q*dimes+r*nickles+s*pennies >= givenMoney ){  //in $
-//             alert("You inserted required money")
-//         }else{
-//             alert("Sorry , that's not enough money, Money refunded.")
-//         }
-//     }
-//     if(a == "latte"){
-//         if(p*quarters+q*dimes+r*nickles+s*pennies >= givenMoney ){  //in $
-//             alert("You inserted required money")
-//         }else{
-//             alert("Sorry , that's not enough money, Money refunded.")
-//         }
-//     }
-//     if(a == "cappuccino"){
-//         if(p*quarters+q*dimes+r*nickles+s*pennies >= givenMoney ){  //in $
-//             alert("You inserted required money")
-//         }else{
-//             alert("Sorry , that's not enough money, Money refunded.")
-//         }
-//     }
-// }
-
-   
-// var arr = ["espresso" , "latte" , "cappuccino"]
-// if(b == "off"){
-//    // return;
-// }
-// function showMessage(){
-// }
 
 
 
